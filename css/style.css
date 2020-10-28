@@ -1,0 +1,22 @@
+@media only screen and (min-width: 600px) {
+    h1 {
+        background-color: navy;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .photo {
+        float: right;
+        width: 50%;
+        margin-left: 1rem;
+    }
+}
+
+@media only screen and (min-width: 920px) {
+    .video {
+        width: 40%;
+        height: 100%;
+        margin-right: 1rem;
+
+    }
+}
